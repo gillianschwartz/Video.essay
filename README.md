@@ -1,5 +1,6 @@
 # Video-essay
 #Summary 
+
 Ringo Starr was essential to The Beatles’ success, shaping their sound, chemistry, and legacy. While often overshadowed by Lennon, McCartney, and Harrison, Ringo’s distinctive drumming style, steady rhythm, and creative fills gave the band a unique and recognizable sound. His personality and humor also balanced the group, easing tensions during critical moments, and adding an element of light to the band dynamic. This video essay explores how his influence extended beyond drumming, from vocal contributions to pioneering rock drumming techniques. Without Ringo’s technical skill, adaptability, and presence, The Beatles wouldn’t have achieved the same iconic status, proving he was far more than just their drummer.
 
 #Credits 
