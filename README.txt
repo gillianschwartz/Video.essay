@@ -1,9 +1,8 @@
-# Video-essay
-#Summary 
-
+Video-essay
+Summary:
 Ringo Starr was essential to The Beatles’ success, shaping their sound, chemistry, and legacy. While often overshadowed by Lennon, McCartney, and Harrison, Ringo’s distinctive drumming style, steady rhythm, and creative fills gave the band a unique and recognizable sound. His personality and humor also balanced the group, easing tensions during critical moments, and adding an element of light to the band dynamic. This video essay explores how his influence extended beyond drumming, from vocal contributions to pioneering rock drumming techniques. Without Ringo’s technical skill, adaptability, and presence, The Beatles wouldn’t have achieved the same iconic status, proving he was far more than just their drummer.
 
-#Credits 
+Credits:
 1. "The Beatles - Hello, Goodbye - Official Music Video" by The Beatles, licensed under Public Domain, https://archive.org/details/youtube-rblyskz_vni_202409
 2. "Shut the Hell Up Ringo" by BUSTER, licensed under Standard YouTube License, https://www.youtube.com/watch?v=YfBVNpiTKJ8
 3. "snare - Premier Artist Maple - loose - buzz roll x3.wav" by bigjoedrummer, licensed under Creative Commons 0 (CC0), https://freesound.org/people/bigjoedrummer/sounds/111653/
