@@ -1,5 +1,5 @@
 Video-essay
-Summary:https://youtu.be/iBIhc_eTfoU 
+Summary:
 My video essay focuses on Ringo Starr’s essential role in The Beatles’ success, arguing that the Ringo was essential for the Beatles success. 
 Often overlooked in favor of Lennon, McCartney, and Harrison, Ringo’s unique style, steady rhythm, and innovative fills were crucial in defining 
 The Beatles signature sound. His humor and easygoing personality also played a vital role in easing tensions, particularly during times of chaos and stress.
@@ -21,6 +21,8 @@ Editing in Premiere Pro was challenging, particularly in synchronizing video cli
 However, when I got the hang of pacing, transitions, and visual elements, I felt my points strengthen as well as my storytelling. 
 Workshopping with my peers was super helpful, as their insights improved and strengthened my argument, as well as guided me in ways 
 that I didn't know I needed to go. 
+
+FULL VIDEO FOUND HERE-->https://youtu.be/iBIhc_eTfoU 
 
 Credits:
 1. "The Beatles - Hello, Goodbye - Official Music Video" by The Beatles, licensed under Public Domain, https://archive.org/details/youtube-rblyskz_vni_202409
