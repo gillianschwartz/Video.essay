@@ -1,5 +1,5 @@
 Video-essay
-Summary:
+Summary:https://youtu.be/iBIhc_eTfoU 
 My video essay focuses on Ringo Starr’s essential role in The Beatles’ success, arguing that the Ringo was essential for the Beatles success. 
 Often overlooked in favor of Lennon, McCartney, and Harrison, Ringo’s unique style, steady rhythm, and innovative fills were crucial in defining 
 The Beatles signature sound. His humor and easygoing personality also played a vital role in easing tensions, particularly during times of chaos and stress.
