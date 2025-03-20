@@ -1,12 +1,26 @@
 Video-essay
 Summary:
-My video essay focuses on Ringo Starr’s essential role in The Beatles’ success, arguing that the Ringo was essential for the Beatles success. Often overlooked in favor of Lennon, McCartney, and Harrison, Ringo’s unique style, steady rhythm, and innovative fills were crucial in defining The Beatles’ signature sound. His humor and easygoing personality also played a vital role in easing tensions, particularly during times of chaos and stress. I chose this subject because discussions about The Beatles often underplay Ringo’s significance, and I wanted to highlight his incredible influence on their music and legacy.
+My video essay focuses on Ringo Starr’s essential role in The Beatles’ success, arguing that the Ringo was essential for the Beatles success. 
+Often overlooked in favor of Lennon, McCartney, and Harrison, Ringo’s unique style, steady rhythm, and innovative fills were crucial in defining 
+The Beatles signature sound. His humor and easygoing personality also played a vital role in easing tensions, particularly during times of chaos and stress.
+I chose this subject because discussions about The Beatles often underplay Ringo’s significance, and I wanted to highlight his incredible influence on their music and legacy.
 
-The video essay format allowed me to combine archival footage, expert analysis, and music clips to illustrate my thesis dynamically. I incorporated examples of Ringo’s drumming techniques, isolated drum tracks, and interviews to create a compelling narrative that engages both casual listeners and dedicated Beatles fans. Using voiceover narration, on-screen text, and visual storytelling, I structured my argument in a way that was engaging and easy to understand. This form was crucial for displaying Ringo's attributes because his contributions to music cannot just be shown but must be heard as well. 
+The video essay format allowed me to combine archival footage, expert analysis, and music clips to illustrate my thesis dynamically. 
+I incorporated examples of Ringo’s drumming techniques, isolated drum tracks, and interviews to create a compelling narrative that engages
+both casual listeners and dedicated Beatles fans. Using voiceover narration, on-screen text, and visual storytelling, I structured my argument
+in a way that was engaging and easy to understand. This form was crucial for displaying Ringo's attributes because his contributions to music 
+cannot just be shown but must be heard as well. 
 
-Throughout my research, I dove into The Beatles’ legacy, drawing from other influential musicians, fellow fans, and Ringo's firsthand experiences. Many discussions still focus on the songwriting genius of Lennon and McCartney, while drumming contributions in rock history are often undervalued. I positioned my argument to combat this idea, emphasizing that Ringo was not just a competent drummer but an innovative musician whose impact is still felt today.
+Throughout my research, I dove into The Beatles’ legacy, drawing from other influential musicians, fellow fans, and Ringo's firsthand experiences. 
+Many discussions still focus on the songwriting genius of Lennon and McCartney, while drumming contributions in rock history are often undervalued.
+I positioned my argument to combat this idea, emphasizing that Ringo was not just a competent drummer but an innovative musician whose impact is still felt today.
 
-Reflecting on my process, I found that researching and structuring the essay required a deep dive into Beatles history and music theory. While music critics do exist and study pieces of music thoroughly, I felt that I didn't want to include this, as it traps music in a box. Editing in Premiere Pro was challenging, particularly in synchronizing video clips and audio to effectively emphasize key points. However, when I got the hang of pacing, transitions, and visual elements, I felt my points strengthen as well as my storytelling. Workshopping with my peers was super helpful, as their insights improved and strengthened my argument, as well as guided me in ways that I didn't know I needed to go. 
+Reflecting on my process, I found that researching and structuring the essay required a deep dive into Beatles history and music theory. 
+While music critics do exist and study pieces of music thoroughly, I felt that I didn't want to include this, as it traps music in a box. 
+Editing in Premiere Pro was challenging, particularly in synchronizing video clips and audio to effectively emphasize key points. 
+However, when I got the hang of pacing, transitions, and visual elements, I felt my points strengthen as well as my storytelling. 
+Workshopping with my peers was super helpful, as their insights improved and strengthened my argument, as well as guided me in ways 
+that I didn't know I needed to go. 
 
 Credits:
 1. "The Beatles - Hello, Goodbye - Official Music Video" by The Beatles, licensed under Public Domain, https://archive.org/details/youtube-rblyskz_vni_202409
