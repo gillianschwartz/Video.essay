@@ -1,6 +1,12 @@
 Video-essay
 Summary:
-Ringo Starr was essential to The Beatles’ success, shaping their sound, chemistry, and legacy. While often overshadowed by Lennon, McCartney, and Harrison, Ringo’s distinctive drumming style, steady rhythm, and creative fills gave the band a unique and recognizable sound. His personality and humor also balanced the group, easing tensions during critical moments, and adding an element of light to the band dynamic. This video essay explores how his influence extended beyond drumming, from vocal contributions to pioneering rock drumming techniques. Without Ringo’s technical skill, adaptability, and presence, The Beatles wouldn’t have achieved the same iconic status, proving he was far more than just their drummer.
+My video essay focuses on Ringo Starr’s essential role in The Beatles’ success, arguing that the Ringo was essential for the Beatles success. Often overlooked in favor of Lennon, McCartney, and Harrison, Ringo’s unique style, steady rhythm, and innovative fills were crucial in defining The Beatles’ signature sound. His humor and easygoing personality also played a vital role in easing tensions, particularly during times of chaos and stress. I chose this subject because discussions about The Beatles often underplay Ringo’s significance, and I wanted to highlight his incredible influence on their music and legacy.
+
+The video essay format allowed me to combine archival footage, expert analysis, and music clips to illustrate my thesis dynamically. I incorporated examples of Ringo’s drumming techniques, isolated drum tracks, and interviews to create a compelling narrative that engages both casual listeners and dedicated Beatles fans. Using voiceover narration, on-screen text, and visual storytelling, I structured my argument in a way that was engaging and easy to understand. This form was crucial for displaying Ringo's attributes because his contributions to music cannot just be shown but must be heard as well. 
+
+Throughout my research, I dove into The Beatles’ legacy, drawing from other influential musicians, fellow fans, and Ringo's firsthand experiences. Many discussions still focus on the songwriting genius of Lennon and McCartney, while drumming contributions in rock history are often undervalued. I positioned my argument to combat this idea, emphasizing that Ringo was not just a competent drummer but an innovative musician whose impact is still felt today.
+
+Reflecting on my process, I found that researching and structuring the essay required a deep dive into Beatles history and music theory. While music critics do exist and study pieces of music thoroughly, I felt that I didn't want to include this, as it traps music in a box. Editing in Premiere Pro was challenging, particularly in synchronizing video clips and audio to effectively emphasize key points. However, when I got the hang of pacing, transitions, and visual elements, I felt my points strengthen as well as my storytelling. Workshopping with my peers was super helpful, as their insights improved and strengthened my argument, as well as guided me in ways that I didn't know I needed to go. 
 
 Credits:
 1. "The Beatles - Hello, Goodbye - Official Music Video" by The Beatles, licensed under Public Domain, https://archive.org/details/youtube-rblyskz_vni_202409
@@ -13,3 +19,17 @@ Credits:
 8. "The Beatles- Don't Let me Down" by The Beatles, licensed under standard youtube license, https://www.youtube.com/watch?v=NCtzkaL2t_Y
 9. "Something" Rehearsal Clip | The Beatles: Get Back | Disney+" by Disney, licensed under standard youtube license, https://www.youtube.com/watch?v=8JKoFCUaUbY
 10. "The Beatles at Shea stadium" by The Beatles, licensed under standard youtube license, https://www.youtube.com/watch?v=M6DfG7sml-Q 
+11. "World's Great Drummers Salute Ringo Starr" by The Rock and Roll Hall of Fame, licensed under standard youtube license, https://www.youtube.com/watch?v=wJTjjAXDZSY
+12. "static TV GIF" by Von_Madness, licensed under Creative Commons 0 (CC0), https://tenor.com/view/static-tv-gif-25581727
+13. "continuous static.wav" by Jace, licensed under Creative Commons 0 (CC0), https://freesound.org/people/Jace/sounds/35291/
+14. "Close up Ringo Starr" by Bélen, licnesed under Creative Commons 0 (CC0), https://www.pinterest.com/pin/575405289863363169/
+15. "The Beatles - In My Life (Music Video)" by The Beatles Staff, licensed under standard youtube license, https://www.youtube.com/watch?v=ZqpysaAo4BQ
+16. "The Beatles in the recording studio (Oct. 18th 1964) I Feel Fine the chronological Beatles series." by Blindowl Videos, licensed under standard youtube license, https://www.youtube.com/watch?v=lfhofK3Ujyc
+17. "Ringo Drumming Live - Compilation" by GoblinGuy,licensed under standard youtube license, https://www.youtube.com/watch?v=UvvfeRECuII
+18. "The real and bloody history behind the witches of Halloween" by BBC, licensed under the BBC photo library, https://www.bbc.com/news/uk-scotland-37822022
+19. "She Loves You REMASTERED - Best Quality ever!" by GuitarDocs, licensed under standard youtube license, https://www.youtube.com/watch?v=S302kF8MJ-I
+
+
+
+ 
+
